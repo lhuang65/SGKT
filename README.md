@@ -20,7 +20,7 @@ You should create a folder named 'checkpoint' and 'logs' for saving model and lo
 
 python == 3.6.5
 
-tensorflow == 1.14.0
+tensorflow == 1.15.0
 
 numpy == 1.15.2
 
