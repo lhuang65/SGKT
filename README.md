@@ -14,6 +14,8 @@ ASSIST2012: [download](https://drive.google.com/file/d/0BxCxNjHXlkkHczVDT2kyaTQy
 
 EdNet: [download](https://drive.google.com/file/d/1AmGcOs5U31wIIqvthn9ARqJMrMTFTcaw/view)
 
+You should create a folder named 'checkpoint' and 'logs' for saving model and log in our experiments.
+
 ## Environment Requirement
 
 python == 3.6.5
